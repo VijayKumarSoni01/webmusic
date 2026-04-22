@@ -1,154 +1,90 @@
-🎵 Music Web App
+# 🎵 Music Web Application
 
+## 📌 Project Title
+**Music Web Application**
 
+---
 
-1️⃣ Project Title
-
-Music Web Application
-
-
-
-2️⃣ About Project
-
+## 📖 About Project
 This is a simple music web application where users can:
+- View different music artists  
+- Browse albums  
+- Play songs  
 
+The project is designed using **basic web technologies** and focuses on **frontend development concepts**.
 
+---
 
-View different music artists
+## 🛠️ Technologies Used
 
-Browse albums
+| Category              | Technology   |
+|:----------------------|:------------:|
+| **Frontend (GUI)**    | HTML, CSS    |
+| **Backend (Database)**| Not used     |
+| **Server-side Script**| Not used     |
+| **Client-side Script**| HTML & CSS   |
 
-Play songs
+---
 
+## 🔄 Flow Chart / Working of Project
 
+User opens website
+↓
+Homepage loads (index.html)
+↓
+User selects artist from sidebar
+↓
+Artist page opens (songs list)
+↓
+User clicks "Play"
+↓
+Song player page opens
 
-The project is designed using basic web technologies and focuses on frontend development concepts.
 
+---
 
+## 🖼️ Running Project (Screenshots)
 
-3️⃣ Technologies Used
+🏠 **Home Page**  
+- Displays main layout with sidebar and content  
 
-(a) Frontend (GUI)
+🎤 **Artist Page**  
+- Shows songs of selected artist  
 
+▶️ **Play Page**  
+- Plays selected song  
 
+---
 
-HTML
+## 🚀 Future Enhancements
+- Add more artists and songs  
+- Improve UI (Spotify-like design)  
+- Add JavaScript for better interaction  
+- Make website mobile responsive  
+- Add playlist and search feature  
 
-CSS
+---
 
+## 🖼️ Running Project (Screenshots)
 
+### 🏠 Home Page
+![Home Page](AlbumFolder/homepage.png)
 
-(b) Backend (Database)
+---
 
-
-
-Not used
-
-
-
-(c) Server-side Script
-
-
-
-Not used
-
-
-
-(d) Client-side Script
-
-
-
-HTML \& CSS
-
-
-
-4️⃣ Flow Chart / Working of Project
-
-
-
-User opens website  
-
-&#x20;       ↓  
-
-Homepage loads (index.html)  
-
-&#x20;       ↓  
-
-User selects artist from sidebar  
-
-&#x20;       ↓  
-
-Artist page opens (songs list)  
-
-&#x20;       ↓  
-
-User clicks "Play"  
-
-&#x20;       ↓  
-
-Song player page opens  
-
-
-
-
-
-5️⃣ Running Project (Screenshots)
-
-🏠 Home Page
-
-Displays main layout with sidebar and content
-
-🎤 Artist Page
-
-Shows songs of selected artist
-
-▶️ Play Page
-
-Plays selected song
-
-
-
-6️⃣ Future Enhancements
-
-
-
-Add more artists and songs
-
-Improve UI (like Spotify design)
-
-Add JavaScript for better interaction
-
-Make website mobile responsive
-
-Add playlist and search feature
-
-
-
-
-
-📊 DFD (Data Flow Diagram)
+## 📊 Data Flow Diagram (DFD)
 
 User → Select Artist → View Songs → Play Song
 
 
+---
 
+## 📚 References
+- Google (for images and learning)  
+- YouTube tutorials  
+- HTML & CSS documentation  
 
+---
 
-7️⃣ References
-
-
-
-Google (for images and learning)
-
-YouTube tutorials
-
-HTML \& CSS documentation
-
-
-
-
-
-👨‍💻 Author
-
-Vijay Kumar Soni
-
+## 👨‍💻 Author
+**Vijay Kumar Soni**
