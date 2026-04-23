@@ -31,8 +31,9 @@ The project is designed using **basic web technologies** and focuses on **fronte
 
 ---
 
-## Project Structure 
+## 📁 Project Structure
 
+```plaintext
 Music/
 │
 ├── index.html
