@@ -116,7 +116,7 @@ Song player page opens
 ## 🖼️ Running Project (Screenshots)
 
 ### 🏠 Home Page
-![Home Page](AlbumFolder/homepage.png)
+![Home Page](../AlbumFolder/homepage.png)
 
 ---
 
